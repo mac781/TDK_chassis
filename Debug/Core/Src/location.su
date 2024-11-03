@@ -1,0 +1,17 @@
+/opt/st/stm32cubeide_1.10.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.0.202111181127/tools/arm-none-eabi/include/c++/10.3.1/bits/std_abs.h:75:3:constexpr float std::abs(float)	16	static
+/opt/st/stm32cubeide_1.10.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.0.202111181127/tools/arm-none-eabi/include/c++/10.3.1/cmath:144:3:constexpr float std::atan2(float, float)	16	static
+/opt/st/stm32cubeide_1.10.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.0.202111181127/tools/arm-none-eabi/include/c++/10.3.1/cmath:184:3:constexpr float std::cos(float)	16	static
+/opt/st/stm32cubeide_1.10.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.0.202111181127/tools/arm-none-eabi/include/c++/10.3.1/cmath:425:3:constexpr float std::sin(float)	16	static
+/opt/st/stm32cubeide_1.10.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.0.202111181127/tools/arm-none-eabi/include/c++/10.3.1/cmath:1438:3:constexpr float std::fmin(float, float)	16	static
+../Core/Src/location.cpp:91:6:void cis_speedTransfer_modle()	16	static
+../Core/Src/location.cpp:104:6:void trans_speedTransfer_modle(float, float)	24	static
+../Core/Src/location.cpp:110:6:void location_reset(float, float, float)	24	static
+/opt/st/stm32cubeide_1.10.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.0.202111181127/tools/arm-none-eabi/include/c++/10.3.1/cmath:155:5:constexpr typename __gnu_cxx::__promote_2<_Tp, _Up>::__type std::atan2(_Tp, _Up) [with _Tp = int; _Up = int]	24	static
+../Core/Src/location.cpp:139:6:void location_data(int)	48	static
+../Core/Src/location.cpp:186:6:void integral_moveto(float, float, float)	40	static
+../Core/Src/location.cpp:338:6:void move_to_line(int, bool)	24	static
+../Core/Src/location.cpp:387:6:void ach(bool)	16	static
+../Core/Src/location.cpp:391:6:void speed_change(int)	32	static
+/opt/st/stm32cubeide_1.10.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.0.202111181127/tools/arm-none-eabi/include/c++/10.3.1/cmath:415:5:constexpr typename __gnu_cxx::__promote_2<_Tp, _Up>::__type std::pow(_Tp, _Up) [with _Tp = float; _Up = int]	24	static
+../Core/Src/location.cpp:509:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../Core/Src/location.cpp:509:1:cpp)	8	static

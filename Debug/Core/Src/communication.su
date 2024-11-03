@@ -1,0 +1,6 @@
+../Core/Src/communication.cpp:23:6:void UART_setup()	8	static
+../Core/Src/communication.cpp:27:6:void UART_TransmitData_Arrive_Destination_DMA(UART_HandleTypeDef*, bool)	16	static
+../Core/Src/communication.cpp:38:6:bool UART_ReceiveData_Status_DMA(UART_HandleTypeDef*, float*, float*, float*, float*)	32	static
+../Core/Src/communication.cpp:58:6:void UART_TRANSMIT()	8	static
+../Core/Src/communication.cpp:61:6:void HAL_UART_TxCpltCallback(UART_HandleTypeDef*)	16	static
+../Core/Src/communication.cpp:73:6:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	40	static

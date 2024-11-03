@@ -1,0 +1,12 @@
+../Core/Src/motor.cpp:61:6:void DCmotor_setup()	8	static
+../Core/Src/motor.cpp:76:6:void PI_control_run(DC_motor*, float)	32	static
+../Core/Src/motor.cpp:105:6:void getState(DC_motor*, int, int)	32	static
+../Core/Src/motor.cpp:124:6:void Cascade_run()	8	static
+../Core/Src/motor.cpp:189:6:void updateLocation(uint16_t)	16	static
+../Core/Src/motor.cpp:216:6:void DCmotor_run()	8	static
+../Core/Src/motor.cpp:235:6:void encodersp(float*)	16	static
+../Core/Src/motor.cpp:242:6:void speedOutput(int)	16	static
+../Core/Src/motor.cpp:251:6:bool reach_destination()	4	static
+../Core/Src/motor.cpp:263:6:void update_cascadeState(float)	16	static
+../Core/Src/motor.cpp:267:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../Core/Src/motor.cpp:267:1:cpp)	8	static

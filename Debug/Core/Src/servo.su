@@ -1,0 +1,5 @@
+../Core/Src/servo.cpp:18:6:void servo_setup()	8	static
+../Core/Src/servo.cpp:22:6:void servo_move(servo*, float, int)	24	static
+../Core/Src/servo.cpp:27:6:void servo_run(servo*, int)	24	static
+../Core/Src/servo.cpp:42:6:void blockState()	8	static
+../Core/Src/servo.cpp:58:6:void update_blockstate(bool)	16	static
